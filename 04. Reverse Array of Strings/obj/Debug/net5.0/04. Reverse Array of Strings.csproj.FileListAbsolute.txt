@@ -1,0 +1,16 @@
+C:\Users\maxib\source\repos\01. Day of Week\04. Reverse Array of Strings\bin\Debug\net5.0\04. Reverse Array of Strings.exe
+C:\Users\maxib\source\repos\01. Day of Week\04. Reverse Array of Strings\bin\Debug\net5.0\04. Reverse Array of Strings.deps.json
+C:\Users\maxib\source\repos\01. Day of Week\04. Reverse Array of Strings\bin\Debug\net5.0\04. Reverse Array of Strings.runtimeconfig.json
+C:\Users\maxib\source\repos\01. Day of Week\04. Reverse Array of Strings\bin\Debug\net5.0\04. Reverse Array of Strings.runtimeconfig.dev.json
+C:\Users\maxib\source\repos\01. Day of Week\04. Reverse Array of Strings\bin\Debug\net5.0\04. Reverse Array of Strings.dll
+C:\Users\maxib\source\repos\01. Day of Week\04. Reverse Array of Strings\bin\Debug\net5.0\ref\04. Reverse Array of Strings.dll
+C:\Users\maxib\source\repos\01. Day of Week\04. Reverse Array of Strings\bin\Debug\net5.0\04. Reverse Array of Strings.pdb
+C:\Users\maxib\source\repos\01. Day of Week\04. Reverse Array of Strings\obj\Debug\net5.0\04. Reverse Array of Strings.csproj.AssemblyReference.cache
+C:\Users\maxib\source\repos\01. Day of Week\04. Reverse Array of Strings\obj\Debug\net5.0\04. Reverse Array of Strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxib\source\repos\01. Day of Week\04. Reverse Array of Strings\obj\Debug\net5.0\04. Reverse Array of Strings.AssemblyInfoInputs.cache
+C:\Users\maxib\source\repos\01. Day of Week\04. Reverse Array of Strings\obj\Debug\net5.0\04. Reverse Array of Strings.AssemblyInfo.cs
+C:\Users\maxib\source\repos\01. Day of Week\04. Reverse Array of Strings\obj\Debug\net5.0\04. Reverse Array of Strings.csproj.CoreCompileInputs.cache
+C:\Users\maxib\source\repos\01. Day of Week\04. Reverse Array of Strings\obj\Debug\net5.0\04. Reverse Array of Strings.dll
+C:\Users\maxib\source\repos\01. Day of Week\04. Reverse Array of Strings\obj\Debug\net5.0\ref\04. Reverse Array of Strings.dll
+C:\Users\maxib\source\repos\01. Day of Week\04. Reverse Array of Strings\obj\Debug\net5.0\04. Reverse Array of Strings.pdb
+C:\Users\maxib\source\repos\01. Day of Week\04. Reverse Array of Strings\obj\Debug\net5.0\04. Reverse Array of Strings.genruntimeconfig.cache
